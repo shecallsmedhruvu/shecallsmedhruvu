@@ -41,8 +41,7 @@ Currently working on real-world projects in Python, Java, and web development.
 
 ### 🤝 Let's connect
 
-📩 Email: your@email.com  
-💼 LinkedIn: linkedin.com/in/dhruv-singh  
-🌐 Portfolio: your-portfolio.netlify.app  
+📩 Email: singhdhruvpers@email.com  
+💼 LinkedIn: www.linkedin.com/in/dhruvsinghds
 
 > *"Every expert was once a beginner."* — Currently being the best beginner I can be. 🔥
