@@ -28,7 +28,7 @@ Currently working on real-world projects in Python, Java, and web development.
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🌦️ Weather EDA | Exploratory analysis of 10-year climate data | Python, Pandas |
-| 💰 Bank System | A real life based banking system | Java, OOPs |
+| 💰 Bank System | A banking system based on real life | Java, OOPs |
 | 🌐 Portfolio Website | My personal developer website | HTML, CSS, JS |
 
 ---
